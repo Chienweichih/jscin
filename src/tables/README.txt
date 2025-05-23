@@ -5,7 +5,7 @@ Tables from XCIN 2.5.3-pre2:
   phone.cin
   simplex.cin
 
-Tables from GCIN 2.8.0:
+Tables from GCIN (v2023-1.0):
   ar30.cin
 
 Tables from libchewing:
